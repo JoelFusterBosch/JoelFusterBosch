@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋, esta targeta encara s'esta construïnt, torna més endavant
 
 <!--
 **JoelFusterBosch/JoelFusterBosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
